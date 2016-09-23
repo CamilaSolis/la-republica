@@ -1,1 +1,28 @@
-/* Inserta tu código de la página blog acá */
+*Footer*/
+footer{
+	background-color: #E3E3E3;
+	padding: 2% 0 1% 0;
+}
+.copy{
+	font-size:12px;
+}
+.list-group-item{
+	color:#333331;
+}
+ hr{ 
+   border: 0.5px solid white;
+   height:2px;  
+   background-color:#CEC9C9; 
+   width: 100%;
+ }
+ .direccion{
+ 	padding-top: 20%;	
+ }
+    
+ 
+.mobile{
+	background: black;
+	padding: 3% 0;
+	color:white;
+}
+
