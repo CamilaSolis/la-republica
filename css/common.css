@@ -25,4 +25,10 @@ footer{
 	padding: 3% 0;
 	color:white;
 }
-
+/*Para centrar*/
+  .column.large-centered,
+  .columns.large-centered {
+    margin-left: auto;
+    margin-right: auto;
+    float: none !important;
+ }
