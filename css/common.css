@@ -1,7 +1,14 @@
+
 /*Footer*/
 footer{
 	background-color: #E3E3E3;
 	padding: 2% 0 1% 0;
+}
+header{
+	background-color:  #E3E3E3;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	border-bottom: 1px gray solid;
 }
 .copy{
 	font-size:12px;
@@ -32,3 +39,64 @@ footer{
     margin-right: auto;
     float: none !important;
  }
+=======
+
+.navi{
+	padding-top: 10px;
+	padding-bottom: 0;
+}
+
+.navi .nav a{
+	font-size: 11px;
+	color: grey;
+	margin-right:5px;
+	font-weight: bold;
+}
+
+.nav{
+	list-style: none;
+	padding: 0;
+}
+
+.nav li{
+	float:left;
+}
+
+.btn-default{
+	background-color: #ff4500;
+	border-radius: 10px;
+	color:white;
+	font-size: 11px;
+	margin-right: 10px;
+}
+
+.icono{
+	margin-right: 10px;
+	font-size: 15px;
+}
+
+.fa-facebook{
+	color:#1034a6;
+}
+
+.fa-twitter{
+	color: #0070ff;
+}
+
+.fa-google-plus{
+	color: #cc0000;
+}
+
+.fa-envelope{
+	color: #ffbf00;
+}
+
+.fa-rss{
+	color:#ff8c00;
+}
+
+.buscar{
+	font-size: 11px;
+	display: inline-block;
+	color:grey;
+}
