@@ -1,3 +1,8 @@
+.column{
+	font-size: 50px;
+	color: #1f1f1f;
+	margin:3% 0;
+}
 *Footer*/
 footer{
 	background-color: #E3E3E3;
@@ -25,4 +30,87 @@ footer{
 	padding: 3% 0;
 	color:white;
 }
-
+.ultimo{
+	font-size: 20px;
+	color:#7586a4;
+	font-family: 'Oswald', sans-serif;
+	margin: 3% 0;
+}
+.ultimo img{
+	width: 17px;
+}
+.mar{
+	margin:1%;
+}
+.texto{
+	height: 120px;
+}
+.columntext{
+	border: 2px solid #e2e2e2;
+	padding: 5%;
+	height: 250px;
+}
+.autor{
+	background-color: #e2e6e9;
+	margin: 0.1%;
+}
+.autor img{
+	border:5px white solid;
+	margin:5% 3%;
+	float: left;
+	box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.columntitle{
+	font-size: 20px;
+	text-align: center;
+}
+.fecha{
+	font-size: 12px;
+	padding: 4% 0 2% 0;
+	text-align: center;
+}
+.nom{
+	margin-top:5%;
+	color: #1f1f1f;
+	font-size: 15px;
+	font-family: 'Oswald', sans-serif;
+}
+.claro{
+	color:#6a7885;
+	font-size:16px;
+}
+.boton{
+	text-align: center;
+}
+.btn{
+	background-color: #ba1414;
+	padding: 1% 5%;
+	border:none;
+	margin:3% 0 4% 0;
+}
+.btn:hover{
+	background-color: #970e0e;
+}
+.nav2{
+	background-color: #ba1414;
+	text-align: center;
+	margin: 0 0.2%;
+	padding: 2% 0;
+}
+.nav-pills2 a{
+	color:white;
+	text-decoration: none;
+	list-style: none;
+	font-size: 18px;
+}
+.nav-pills2 li:hover{
+	background-color: #970e0e;
+	border-radius: 20px;
+}
+.nav-pills2 li{
+	display: inline-block;
+	padding: 1% 2%;
+}
+.bajada{
+	margin: 5% 0;
+}
