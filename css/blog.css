@@ -1,1 +1,47 @@
 /* Inserta tu código de la página blog acá */
+.box-blog {
+	border: 2px solid #D5D3D3;
+	padding-bottom: 0px;
+	padding-top: 4em;
+	width: 220px;
+	margin:0;
+	margin-left: 10px;
+}
+.box-blog h4 {
+	padding-top: 0.5em;
+}
+.lead {
+	color: #D5D3D3;
+	font-size: 0.8em;
+}
+.lead-green {
+	color: #8C9E96;
+}
+.text-box p {
+	display:inline;
+}
+.lead {
+	font-size: 1em;
+	margin-bottom: 0.5em;
+}
+.grey-box {
+	background-color: #A3A2A2;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+.grey-box img {
+	border: 2px solid white;
+	width: 100%;
+	margin: 0px;
+}
+.img-box img {
+	margin: 10px;
+}
+.tex-box {
+	padding-top: 10px;
+	margin-left: 20px;
+	margin: 0px;
+}
+.box-dos {
+	margin-top: 10px;
+}
