@@ -1,1 +1,67 @@
-/* Inserta tu código común entre todas las páginas acá */
+/*header*/
+.img-republica {
+    margin: 10% 0% 0% 0%;
+}
+.caja {
+    border: 1px solid rgba(0, 0, 0, 0.23); 
+    border-bottom: #900f0f 3px solid;
+    margin: 2% 0% 0% 0%;   
+}
+.button {
+    margin: -2% 0% 0% 0%;
+}
+.caja2 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.23);
+    border-top: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 4px;
+    padding: 1%;
+    margin: 2% 0% 0% 0%;
+}
+.parrafo {
+    font-size: 11px;
+    display: inline;
+}
+.img-author {
+    float: right;
+}
+/*menu*/
+.back-red {
+    background-color: rgba(193, 3, 3, 0.96);
+    border-radius: 4px;
+}
+.pwhite {
+    color: white;
+    font-family: italica;
+}
+.nav-pills li a {
+    font-size: 9px;
+}
+/*menu2*/
+.caja3 {
+    margin-top: 1%;
+}
+.back-gray {
+    background-color: rgba(128, 128, 128, 0.3);
+    border-radius: 4px;
+}
+.pblack {
+    font-size: 11px;
+    font-family: italica;
+    background-color: black;
+    border-radius: 4px 0 0 4px;
+    color: white;    
+}
+.parrafoblack {
+    color: black;
+    font-family: italica;
+    border-radius: 4px;
+}
+a {
+    list-style: none;
+    text-decoration: none;
+    float: left;
+}
+/*banner-header*/
+.imgbanner {
+    padding-top: 1%;
+}
