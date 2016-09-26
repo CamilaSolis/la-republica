@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /*Footer*/
 footer{
@@ -108,3 +109,87 @@ header{
 	display: inline-block;
 	color:grey;
 }
+=======
+/*header*/
+.img-republica {
+    margin: 10% 0% 0% 0%;
+}
+.caja {
+    border: 1px solid rgba(0, 0, 0, 0.23); 
+    border-bottom: #900f0f 3px solid;
+    margin: 2% 0% 0% 0%;   
+}
+.button {
+    margin: -2% 0% 0% 0%;
+}
+.caja2 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.23);
+    border-top: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 4px;
+    padding: 1%;
+}
+.parrafo {
+    font-size: 11px;
+    display: inline;
+}
+.img-author {
+    margin: -14% 0% 0% 88%;
+}
+.fondo-negro {
+    background-color: black;
+    background-size: 100%;
+    position: relative;
+    margin: 0% 3% 0% 0%;
+    padding: 1% 0% 1% 1%;
+}
+.fondo-blanco {
+    background-color: white;
+    background-size: 100%;
+    position: absolute;
+    top: 18%;
+    margin: -3% 0% 0% 5%;
+    padding: 3% 0% 0% 0%;
+    border-radius: 5px 0 0 5px;
+}
+/*menu*/
+.back-red {
+    background-color: rgba(193, 3, 3, 0.96);
+    border-radius: 4px;
+}
+.pwhite {
+    color: white;
+    font-family: italica;
+}
+.nav-pills li a {
+    font-size: 9px;
+}
+/*menu2*/
+.caja3 {
+    margin-top: 1%;
+}
+.back-gray {
+    background-color: rgba(128, 128, 128, 0.3);
+    border-radius: 4px;
+}
+.pblack {
+    font-size: 11px;
+    font-family: italica;
+    background-color: black;
+    border-radius: 4px 0 0 4px;
+    color: white;    
+}
+.parrafoblack {
+    color: black;
+    font-family: italica;
+    border-radius: 4px;
+}
+a {
+    list-style: none;
+    text-decoration: none;
+    float: left;
+}
+/*banner-header*/
+.imgbanner {
+    padding-top: 1%;
+}
+>>>>>>> origin/monica
