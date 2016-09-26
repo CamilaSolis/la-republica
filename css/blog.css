@@ -1,7 +1,12 @@
+
 *Footer*/
 footer{
 	background-color: #E3E3E3;
 	padding: 2% 0 1% 0;
+}
+h1{
+	color: #1f1f1f;
+	margin:3% 0;
 }
 .copy{
 	font-size:12px;
@@ -25,4 +30,55 @@ footer{
 	padding: 3% 0;
 	color:white;
 }
-
+/* Inserta tu código de la página blog acá */
+.box-blog {
+	border: 2px solid #D5D3D3;
+	padding-bottom: 0px;
+	padding-top: 4em;
+	width: 220px;
+	margin:0;
+	margin-left: 10px;
+}
+.box-blog h4 {
+	padding-top: 0.5em;
+}
+.lead {
+	color: #D5D3D3;
+	font-size: 0.8em;
+}
+.lead-green {
+	color:#6a7885;
+}
+.text-box p {
+	display:inline;
+}
+.lead {
+	font-size: 20px;
+	color:#7586a4;
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 0.5em;
+}
+.grey-box {
+	background-color: #e2e6e9;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+.grey-box img {
+	border: 2px solid white;
+	width: 100%;
+	margin: 0px;
+}
+.img-box img {
+	margin: 10px;
+}
+.tex-box {
+	padding-top: 10px;
+	margin-left: 20px;
+	margin: 0px;
+}
+.box-dos {
+	margin-top: 10px;
+}
+.footer1{
+	margin-top: 3%;
+}
